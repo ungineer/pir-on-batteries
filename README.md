@@ -4,9 +4,9 @@ This is a dead-simple cheap way of getting a motion detector that can run for ab
 
 The parts needed (affiliate links):
 
-PIR sensor:  https://s.click.aliexpress.com/e/_DFv3u7H
-NPN transistor: https://s.click.aliexpress.com/e/_DCfZT1V
-LED: https://s.click.aliexpress.com/e/_DeO25ll
+* PIR sensor:  https://s.click.aliexpress.com/e/_DFv3u7H
+* NPN transistor: https://s.click.aliexpress.com/e/_DCfZT1V
+* LED: https://s.click.aliexpress.com/e/_DeO25ll
 
 For AA batteries, it's best to find whatever brand is available locally for you. You will also need some wire. The length will depend on where you want the sensor and LED or some other notification device.
 
